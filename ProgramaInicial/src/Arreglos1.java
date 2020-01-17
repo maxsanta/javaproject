@@ -20,6 +20,7 @@ public class Arreglos1 {
 			arreglo[i]=scan.nextInt()	;
 		}
 		
+		
 		for(int i = 0; i<10;i++) {
 			if(arreglo[i]<0) {
 				cnegativos+=1;
